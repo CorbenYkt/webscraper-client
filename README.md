@@ -6,7 +6,7 @@ This project consists of two parts. The first part is the client part, and you a
 ReactJS + Vite + TailwindCSS
 ![image](https://github.com/CorbenYkt/webscraper-client/assets/117908636/21d22e0b-6a3d-44de-8f87-2d27a8ae25fb)
 
-The client part makes one request to the server via the API - GET to receive data about the latest news on the website vvv.lenta.ru
+The client part makes one request to the server via the API - GET to receive data about the latest news on the website www.lenta.ru
 ```
   const [topnews, setTopnews] = useState([])
   const [loading, setLoading] = useState(false);
