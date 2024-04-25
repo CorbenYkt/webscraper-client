@@ -1,4 +1,4 @@
-# Webscaper
+# Webscraper
 
 This project consists of two parts. The first part is the client part, and you are viewing it now. The second part is the server part via a link in another repository https://github.com/CorbenYkt/webscraper-server
 
